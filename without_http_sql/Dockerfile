@@ -1,5 +1,5 @@
 FROM debian:wheezy
-MAINTAINER Florian Bigard <florian.bigard@gmail.com>
+MAINTAINER x
 
 # NodeJS
 RUN echo "deb http://http.us.debian.org/debian wheezy-backports main" >> /etc/apt/sources.list

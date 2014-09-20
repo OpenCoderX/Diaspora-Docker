@@ -1,5 +1,5 @@
-FROM chocobozzz/diaspora-docker:without_http_sql
-MAINTAINER Florian Bigard <florian.bigard@gmail.com>
+FROM chrisgogreen/diaspora-docker:without_http_sql
+MAINTAINER x
 
 ENV MYSQLTMPROOT temprootpass
 

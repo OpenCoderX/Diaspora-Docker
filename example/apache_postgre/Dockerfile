@@ -1,1 +1,1 @@
-FROM chocobozzz/diaspora-docker:with_apache_postgre
+FROM chrisgogreen/diaspora-docker:with_apache_postgre
