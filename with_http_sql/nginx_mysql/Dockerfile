@@ -33,4 +33,4 @@ ONBUILD RUN rm /etc/nginx/sites-enabled/default
 
 ONBUILD EXPOSE 80
 ONBUILD EXPOSE 443
-ONBUILD CMD ["/bin/bash", "/home/core/diaspora/start.sh"] 
+ONBUILD CMD ["/bin/bash", "/home/diaspora/start.sh"] 
